@@ -1,3 +1,27 @@
 body {
     background: rgb(214, 179, 179);
+    margin-right: 200px;
+    margin-left: 30px;
+}
+header {
+    margin-top: 70px;
+}
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+h2 {
+    font-family: fantasy;
+}
+p {
+    font-size: 18px;
+}
+img {
+    margin-bottom: 20px;
+}
+.img_servicos {
+
+}
+footer {
+    margin-bottom: 30px;
 }
